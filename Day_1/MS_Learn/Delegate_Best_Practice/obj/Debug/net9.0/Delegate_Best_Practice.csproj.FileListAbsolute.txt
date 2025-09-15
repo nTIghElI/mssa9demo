@@ -1,0 +1,15 @@
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.AssemblyInfoInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.AssemblyInfo.cs
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.csproj.CoreCompileInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.sourcelink.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\bin\Debug\net9.0\Delegate_Best_Practice.exe
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\bin\Debug\net9.0\Delegate_Best_Practice.deps.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\bin\Debug\net9.0\Delegate_Best_Practice.runtimeconfig.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\bin\Debug\net9.0\Delegate_Best_Practice.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\bin\Debug\net9.0\Delegate_Best_Practice.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\refint\Delegate_Best_Practice.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\Delegate_Best_Practice.genruntimeconfig.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\MS_Learn\Delegate_Best_Practice\obj\Debug\net9.0\ref\Delegate_Best_Practice.dll
