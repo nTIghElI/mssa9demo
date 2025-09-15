@@ -1,0 +1,15 @@
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\bin\Debug\net9.0\Example_3.exe
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\bin\Debug\net9.0\Example_3.deps.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\bin\Debug\net9.0\Example_3.runtimeconfig.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\bin\Debug\net9.0\Example_3.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\bin\Debug\net9.0\Example_3.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.AssemblyInfoInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.AssemblyInfo.cs
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.csproj.CoreCompileInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.sourcelink.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\refint\Example_3.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\Example_3.genruntimeconfig.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_1\Threads\Example_3\obj\Debug\net9.0\ref\Example_3.dll
