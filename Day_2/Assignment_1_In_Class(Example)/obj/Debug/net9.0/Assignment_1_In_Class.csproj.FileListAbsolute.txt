@@ -1,0 +1,15 @@
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.AssemblyInfoInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.AssemblyInfo.cs
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.csproj.CoreCompileInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.sourcelink.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\bin\Debug\net9.0\Assignment_1_In_Class.exe
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\bin\Debug\net9.0\Assignment_1_In_Class.deps.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\bin\Debug\net9.0\Assignment_1_In_Class.runtimeconfig.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\bin\Debug\net9.0\Assignment_1_In_Class.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\bin\Debug\net9.0\Assignment_1_In_Class.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\refint\Assignment_1_In_Class.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\Assignment_1_In_Class.genruntimeconfig.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_1_In_Class(Example)\obj\Debug\net9.0\ref\Assignment_1_In_Class.dll

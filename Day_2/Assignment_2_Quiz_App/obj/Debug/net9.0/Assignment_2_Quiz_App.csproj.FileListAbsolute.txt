@@ -1,0 +1,15 @@
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\bin\Debug\net9.0\Assignment_2_Quiz_App.exe
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\bin\Debug\net9.0\Assignment_2_Quiz_App.deps.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\bin\Debug\net9.0\Assignment_2_Quiz_App.runtimeconfig.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\bin\Debug\net9.0\Assignment_2_Quiz_App.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\bin\Debug\net9.0\Assignment_2_Quiz_App.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.AssemblyInfoInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.AssemblyInfo.cs
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.csproj.CoreCompileInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.sourcelink.json
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\refint\Assignment_2_Quiz_App.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\Assignment_2_Quiz_App.genruntimeconfig.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\mssa9demo\Day_2\Assignment_2_Quiz_App\obj\Debug\net9.0\ref\Assignment_2_Quiz_App.dll
