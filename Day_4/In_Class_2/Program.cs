@@ -1,9 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Net.Http;
 using System.Reflection.Metadata;
-using System.Runtime.CompilerServices;
 using System.Text.Json;
-using System.Threading.Tasks;
  
 namespace BlockingExample
 {
@@ -33,10 +31,8 @@ namespace BlockingExample
     class Program
     {
         static void Main(string[] args)
-        static async Task Main(string[] args)
         {
             using (HttpClient client = new HttpClient())
-            using (var client = new HttpClient())
             {
                 string[] urls =
                 {
@@ -45,7 +41,6 @@ namespace BlockingExample
                     "https://petstore.swagger.io/v2/pet/findByStatus?status=sold"
                 };
                 var start = DateTime.Now;
-                var tasks = new List<Task>();
  
                 foreach (var url in urls)
                 {
@@ -55,24 +50,6 @@ namespace BlockingExample
                     var pets = JsonSerializer.Deserialize<List<Pet>>(responseBody);
                     Console.WriteLine($"{url} returned {pets?.Count} pets");
                     if (pets != null && pets.Count > 0)
-                    tasks.Add(ProcessUrl(url, client));
-                }
-                await Task.WhenAll(tasks);
-
-                var end = DateTime.Now;
-                Console.WriteLine($"Total time(non-blocking): {(end - start).TotalSeconds:F2} seconds");
-            }
-        }
-
-        static async Task ProcessUrl(string url, HttpClient client)
-        {
-            HttpResponseMessage response = await client.GetAsync(url);
-            if (response.IsSuccessStatusCode)
-            {
-                string responseBody = await response.Content.ReadAsStringAsync();
-                var pets = JsonSerializer.Deserialize<List<Pet>>(responseBody);
-                Console.WriteLine($"{url} returned {pets?.Count} pets");
-                if (pets?.Count > 0)
                     {
                         var pet = pets[0];
                         Console.WriteLine($"Example Id: {pet.id}, Name: {pet.name}, Category: {pet.category?.name}, Tags: {string.Join(", ", pet.tags?.ConvertAll(t => t.name) ?? new List<string>())}");
